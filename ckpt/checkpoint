@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.ckpt.batch48"
+all_model_checkpoint_paths: "model.ckpt.batch19"
+all_model_checkpoint_paths: "model.ckpt.batch20"
+all_model_checkpoint_paths: "model.ckpt.batch25"
+all_model_checkpoint_paths: "model.ckpt.batch38"
+all_model_checkpoint_paths: "model.ckpt.batch48"
