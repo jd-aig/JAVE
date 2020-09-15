@@ -1,0 +1,50 @@
+O O O B-闭合方式 I-闭合方式 O O O
+O O O O O O B-材质 I-材质 O O O
+O O O O B-风格 I-风格 I-风格
+O O O O B-袖长 I-袖长 O O O B-版型 I-版型 O O O O
+O O O O O B-鞋头款式 I-鞋头款式 O O
+B-材质 I-材质 I-材质 O O
+O O O O O O O O O O O O O O O O B-材质 I-材质
+O O B-图案 I-图案 I-图案 I-图案 O O
+O O O O O O O O B-风格 I-风格 I-风格
+O O B-袖长 I-袖长 O O B-图案 I-图案 O O B-图案 I-图案 O O B-图案 I-图案
+O O O O B-图案 I-图案 O O O
+B-版型 I-版型 B-材质 I-材质 O
+O O O B-领型 I-领型 O O O
+O O O O O O B-风格 I-风格 I-风格 O O O O O
+O O B-颜色 I-颜色 B-工艺 I-工艺 O O O
+B-弹性 I-弹性 O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-领型 I-领型 O O
+O O O O B-图案 I-图案 O O
+B-风格 I-风格 O O B-袖型 I-袖型 I-袖型 O
+B-图案 I-图案 O O O O O O O O
+O O O O O O O O O
+O O O O O O
+O O O O O O B-袖型 I-袖型 I-袖型 B-图案 I-图案 O O
+O O O B-图案 I-图案 I-图案 I-图案 O O O O
+O O O O O O O O
+O O O O O B-颜色 I-颜色 O O O O
+O O B-厚度 I-厚度 O O O O O
+O O O O O O O O O B-图案 I-图案 O O O
+O O O O O O O B-闭合方式 I-闭合方式 O O
+B-版型 I-版型 O O O O O
+O O O O O O O O B-鞋跟高度 I-鞋跟高度 B-图案 I-图案 O O
+O O O O B-闭合方式 I-闭合方式 B-领型 I-领型 O O
+B-材质 I-材质 O O O O O O
+B-风格 I-风格 O O O O O O O
+O O O O O O O O O O O B-适用季节 I-适用季节 O O O O
+B-图案 I-图案 B-裤型 I-裤型 O O
+O O B-图案 I-图案 O O O O
+O O O O O O O O O O O O O O
+O O O B-材质 I-材质 I-材质 I-材质 O O O
+B-版型 I-版型 O O O B-材质 O O
+O O O O O O O O O B-裤型 I-裤型 I-裤型 O
+O O O O O O B-图案 I-图案 B-版型 I-版型 O O
+O O O O O O B-闭合方式 I-闭合方式 O
+O O O O B-工艺 I-工艺 O
+O O O B-材质 I-材质 I-材质 I-材质 B-工艺 I-工艺 O O
+O O B-开口深度 I-开口深度 O O O O O O
+O O O O O O O O B-材质 I-材质 O O
+O O O O O B-材质 I-材质 O O
+O O O O B-材质 O
+O O O O B-版型 I-版型 O O
